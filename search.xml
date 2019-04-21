@@ -4,30 +4,11 @@
   
     
     <entry>
-      <title>周六发生的事情</title>
+      <title>写在前面</title>
       <link href="/2019/04/21/20190418/"/>
       <url>/2019/04/21/20190418/</url>
       
-        <content type="html"><![CDATA[<p>今天发生了几件事情，第一件事情是去洗牙，洗牙这个事情没什么问题，然后在地铁上太困了差点跌倒。</p><p>如果现在去想这些事情，有时候很多发生的时候就没有多少意义。毕竟每天都会发生。甚至标题都想着混乱了。</p><p>这些年来，发觉在一些状态想要记录还是困难了些，还真不如像现在一样。写一点博客，这种情况下没有朋友圈的压力，算是可以在一些感触上写点想法。</p><p>不得不说 <a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">hexo-theme-matery</a> 的这个主题挺强大，从目前看，功能还是挺多的，筛选主题的过程中还是想了不少事。</p><p>这个博客是为胡小笨搭建的。异地的原因，有些细节是计划两人见面后再做一些修改的，所以目前的情况是有点四不像，还是一些图片的使用需要得到征用的同意，正是如此，先弄这个初步的版本，然后再具体看看接下来的规划，希望有后续</p><p>目前的一些配置项目</p><p>早上起来继续弄博客，然后就开始有些整理需要替换的内容</p><ul><li>github的链接  (done)</li><li>技能描述 (删除)</li><li>打赏的二维码 (替换掉,但还不是胡小笨的)</li><li>一些图片文件的删除?减少文件估计会减轻这个网页访问的负担 (后续处理)</li><li>接入谷歌统计(有墙后面处理)</li><li>about问题的处理(怎样加入正文,待处理)</li><li>去除友情链接，以及一些公共网站的链接(done)</li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 生活感悟 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>早上起来的事情</title>
-      <link href="/2019/04/19/%E6%97%A9%E4%B8%8A%E8%B5%B7%E6%9D%A5%E7%9A%84%E4%BA%8B%E6%83%85/"/>
-      <url>/2019/04/19/%E6%97%A9%E4%B8%8A%E8%B5%B7%E6%9D%A5%E7%9A%84%E4%BA%8B%E6%83%85/</url>
-      
-        <content type="html"><![CDATA[<h2 id="标题的测试"><a href="#标题的测试" class="headerlink" title="标题的测试"></a>标题的测试</h2><p>早上起来的一些事情挪到昨天的文章去了，主要是一开始搭建博客还是有些生疏的地方</p><pre class="line-numbers language-python"><code class="language-python"><span class="token keyword">def</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>  <span class="token keyword">print</span> <span class="token string">"hello, huxiaoben"</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>​    </p>]]></content>
+        <content type="html"><![CDATA[<p>今天发生了几件事情，第一件事情是去洗牙，洗牙这个事情没什么问题，然后在地铁上太困了差点跌倒。</p><p>如果现在去想这些事情，有时候很多发生的时候就没有多少意义。毕竟每天都会发生。甚至标题都想着混乱了。</p><p>这些年来，发觉在一些状态想要记录还是困难了些，还真不如像现在一样。写一点博客，这种情况下没有朋友圈的压力，算是可以在一些感触上写点想法。</p><p>不得不说 <a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">hexo-theme-matery</a> 的这个主题挺强大，从目前看，功能还是挺多的，筛选主题的过程中还是想了不少事。</p><p>这个博客是为胡小笨搭建的。异地的原因，有些细节是计划两人见面后再做一些修改的，所以目前的情况是有点四不像，还是一些图片的使用需要得到征用的同意，正是如此，先弄这个初步的版本，然后再具体看看接下来的规划，希望有后续</p><p>目前的一些配置项目</p><p>早上起来继续弄博客，然后就开始有些整理需要替换的内容</p><ul><li>github的链接  (done)</li><li>技能描述 (删除)</li><li>打赏的二维码 (替换掉,但还不是胡小笨的)</li><li>一些图片文件的删除?减少文件估计会减轻这个网页访问的负担 (后续处理)</li><li>接入谷歌统计(有墙后面处理)</li><li>about问题的处理(怎样加入正文,待处理)</li><li>去除友情链接，以及一些公共网站的链接(done)</li></ul><p><img src="/2019/04/21/20190418/1.png" alt></p>]]></content>
       
       
       
