@@ -25,10 +25,15 @@
     <link rel="stylesheet" type="text/css" href="/css/my.css">
     <style type="text/css">
         
+        code[class*="language-"], pre[class*="language-"] {
+            white-space: pre !important;
+        }
+        
     </style>
 
     <script src="/libs/jquery/jquery-2.2.0.min.js"></script>
-<link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
+<link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css">
+<link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head>
 
 
 <body>
@@ -94,15 +99,6 @@
         </a>
     </li>
     
-    <li class="hide-on-med-and-down">
-        <a href="/friends" class="waves-effect waves-light">
-            
-            <i class="fa fa-address-book"></i>
-            
-            <span>友情链接</span>
-        </a>
-    </li>
-    
     <li>
         <a href="#searchModal" class="modal-trigger waves-effect waves-light">
             <i id="searchIcon" class="fa fa-search" title="搜索"></i>
@@ -119,7 +115,7 @@
         <div class="logo-name">是迷鹿吖</div>
         <div class="logo-desc">
             
-            一个程序员或者老师
+            一个程序员
             
         </div>
     </div>
@@ -170,15 +166,6 @@
                 <i class="fa fa-fw fa-user-circle-o"></i>
                 
                 关于
-            </a>
-        </li>
-        
-        <li>
-            <a href="/friends" class="waves-effect waves-light">
-                
-                <i class="fa fa-fw fa-address-book"></i>
-                
-                友情链接
             </a>
         </li>
         
@@ -253,7 +240,7 @@
 
             <div class="description center-align">
                 
-                    一个程序员或者老师
+                    一个程序员
                 
             </div>
         </div>
@@ -278,7 +265,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             <div class="cover-social-link">
 
 
-    <a href="mailto:xxx@xx.xx" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
+    <a href="mailto:new_light@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
         <i class="fa fa-envelope-open"></i>
     </a>
 
@@ -398,21 +385,13 @@ $(function () {
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                早上起来继续弄博客，然后就开始有些整理需要替换的内容
+                                标题的测试早上起来继续弄博客，然后就开始有些整理需要替换的内容
 
-github的链接
-
-技能描述
-
-打赏的二维码
-
-一些图片文件的删除?减少文件估计会减轻这个文件的负担
-
+github的链接  (完成)
+技能描述 (技能)
+打赏的二维码 (完成)
+一些图片文件的删除?减少文件估计会减轻这个文件的负担 (后续处理)
 接入谷歌统计(有墙后面处理)
-
-about问题的处理
-
-
 
                             
                         </div>
@@ -467,8 +446,12 @@ about问题的处理
                             </span>
                             <span class="publish-author">
                                 
-                                <i class="fa fa-user fa-fw"></i>
-                                胡小笨
+                                <i class="fa fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="categories/生活/" class="post-category" target="_blank">
+                                    生活
+                                </a>
+                                
                                 
                             </span>
                         </div>
@@ -522,7 +505,7 @@ about问题的处理
         <div class="col s12 m4 l4 social-link social-statis">
 
 
-    <a href="mailto:xxx@xx.xx" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
+    <a href="mailto:new_light@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
         <i class="fa fa-envelope-open"></i>
     </a>
 
@@ -575,8 +558,6 @@ $(function () {
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-
-    <script src="/libs/others/clicklove.js"></script>
 
 
     <script async src="/libs/others/busuanzi.pure.mini.js"></script>
